@@ -1,7 +1,7 @@
 # Site settings
 title: wxf Blog
 SEOTitle: 吴晓烽的博客
-header-img: img/home-bg.jpg
+header-img: img/math_background_meitu_1.jpg
 email: 249947603@qq.com
 description: "这里是 @wxf吴晓烽 的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站, 互联网"
@@ -16,6 +16,7 @@ RSS: false
 weibo_username:     wxf
 zhihu_username:     wxf
 github_username:    wxf
+twitter_username:   wxf
 twitter_username:   wxf
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
