@@ -1,6 +1,6 @@
 # Site settings
-title: wxf Blog
-SEOTitle: 吴晓烽的博客
+title: 吴晓烽 Blog
+SEOTitle: 吴晓烽的博客| Wxf Blog
 header-img: img/math_background_meitu_1.jpg
 email: 249947603@qq.com
 description: "这里是 @wxf吴晓烽 的个人博客，与你一起发现更大的世界。"
@@ -69,17 +69,17 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 948231a01079be71ddebdaa6adaa0310
+
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
 
 
-
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "啊,你在看我"
 sidebar-avatar: /img/IMG_2739.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -101,11 +101,13 @@ page-mathjax: false
 
 
 
+friends: false
+
 # Friends
-friends: [
+#friends: false [
 
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
 
-]
+#]
