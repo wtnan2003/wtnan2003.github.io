@@ -47,7 +47,7 @@ tags:
 
 #### Temporal segment network
 
-![1568787974603](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1568787974603.png)
+
 
 ​		将输入视频分为K个片段、接着从每个片段随机选择一帧丢入空间结构（Spatial ConvNet）、以及选择一段片段（Snippets）丢入时间结构（Temporal ConvNet）、不同片段的类别得分采用段共识函数（The segmental consensus function）进行融合来产生段共识（segmental consensus），这是一个视频级的预测。然后对所有模式的预测融合产生最终的预测结果。
 
