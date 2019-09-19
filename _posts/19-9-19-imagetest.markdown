@@ -13,4 +13,4 @@ typora-root-url: ..
 
 > “Yeah It's on. ”
 >
-> ![runningman](/img/runningman.png)
+> ![未命名](/img/未命名.gif)
